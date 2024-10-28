@@ -31,12 +31,16 @@ I love building efficient microservices and improving data processing speeds. Iâ
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-E04D01?style=flat-square&logo=tensorflow&logoColor=white)
 ![TensorFlow Extended](https://img.shields.io/badge/-TFX-FF6F20?style=flat-square&logo=tensorflow&logoColor=white)
 ![Scikit-learn](https://img.shields.io/badge/-scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+![CUDA](https://img.shields.io/badge/-CUDA-76B900?style=flat-square&logo=nvidia&logoColor=white)
 ![Model Evaluation](https://img.shields.io/badge/-Model%20Evaluation-1F77B4?style=flat-square)
 ![AI Model Deployment](https://img.shields.io/badge/-AI%20Model%20Deployment-7B6BFF?style=flat-square)
 
 ### CI/CD
 ![Jenkins](https://img.shields.io/badge/-Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white)
 ![GitLab CI](https://img.shields.io/badge/-GitLab%20CI-3EAAFF?style=flat-square&logo=gitlab&logoColor=white)
+![CircleCI](https://img.shields.io/badge/-CircleCI-008C4A?style=flat-square&logo=circleci&logoColor=white)
+![Travis CI](https://img.shields.io/badge/-Travis%20CI-3EAAFF?style=flat-square&logo=travis&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
 
 ### DevOps
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
@@ -63,6 +67,10 @@ I love building efficient microservices and improving data processing speeds. Iâ
 
 ### Testing
 ![Jest](https://img.shields.io/badge/-Jest-C21325?style=flat-square&logo=jest&logoColor=white)
+![Mocha](https://img.shields.io/badge/-Mocha-8D6748?style=flat-square&logo=mocha&logoColor=white)
+![Chai](https://img.shields.io/badge/-Chai-A0522D?style=flat-square&logo=chai&logoColor=white)
+![Cypress](https://img.shields.io/badge/-Cypress-17202C?style=flat-square&logo=cypress&logoColor=white)
+![pytest](https://img.shields.io/badge/-pytest-0C4B33?style=flat-square&logo=pytest&logoColor=white)
 
 ### Caching
 ![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
