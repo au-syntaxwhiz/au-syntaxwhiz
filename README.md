@@ -89,24 +89,6 @@ I love building efficient microservices and improving data processing speeds. I�
 ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white)
 ![RabbitMQ](https://img.shields.io/badge/-RabbitMQ-FF6600?style=flat-square&logo=rabbitmq&logoColor=white)
 
-
-
-## Professional Experience
-### Agile 17 (May 2019 – Present)
-**Lead Engineer - Senior Software Engineer**
-- Led a team of 7 engineers to build a full-stack marketplace application using Python, Next.js, and Node.js.
-- Developed a design system that reduced UI component development time by **45%**.
-- Designed scalable AWS infrastructure to support thousands of concurrent users.
-
-### EyeCue Lab (Dec 2017 – April 2019)
-**Senior Software Engineer**
-- Developed a responsive web application using React and Django for thousands of users.
-- Implemented a booking system that reduced scheduling time by **40%**.
-
-### Poll Everywhere (July 2015 – Nov 2017)
-**Software Engineer**
-- Developed AI models in Python, resulting in a **60%** boost in processing speeds for real-time translations.
-
 ## Personal Projects
 - **[Aggero.io](https://aggero.io)**: An AI Video Social Listening tool for analyzing video content and audience sentiment.
 - **[Five to Nine](https://www.fivetonine.co)**: A platform for streamlining employee engagement programs.
