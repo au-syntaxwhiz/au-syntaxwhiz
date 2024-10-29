@@ -1,6 +1,6 @@
 # 👋 Hi there, I'm Ali Uraiz 
 
-I'm a **Senior Software Engineer** with nearly a decade of experience in building scalable and innovative solutions. My expertise lies in **JavaScript**, **Python**, **Node.js**, and **distributed systems**. I have a passion for developing AI-driven platforms and optimizing backend systems for high performance and security.
+I'm a **Senior Software Engineer** with nearly a decade of experience building scalable and innovative solutions. My expertise lies in **JavaScript**, **Python**, **Node.js**, and **distributed systems**. I am passionate about developing AI-driven platforms and optimizing backend systems for high performance and security.
 
 I love building efficient microservices and improving data processing speeds. I’ve successfully reduced UI development time by **45%** and improved processing speeds by **40%** in previous projects.
 
