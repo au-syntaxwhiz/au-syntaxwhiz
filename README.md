@@ -110,15 +110,6 @@ I love building efficient microservices and improving data processing speeds. Iâ
 ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white)
 ![RabbitMQ](https://img.shields.io/badge/-RabbitMQ-FF6600?style=flat-square&logo=rabbitmq&logoColor=white)
 
-## Personal Projects
-- **[Aggero.io](https://aggero.io)**: An AI Video Social Listening tool for analyzing video content and audience sentiment.
-- **[Five to Nine](https://www.fivetonine.co)**: A platform for streamlining employee engagement programs.
-- **[Retain.ai](https://retain.ai)**: Analyzes workflow data to boost productivity and improve customer experience.
-- **[Daily Roto](https://dailyroto.com)**: Provides news and insights for informed decision-making in sports.
-
-## Education
-**Bachelor in Computer Science**
-
 ---
 
-Feel free to connect with me or check out my projects. I'm always open to discussing new ideas or collaborations!
+Feel free to reach out to me or check out my projects. I'm always open to discussing new ideas or collaborations!
