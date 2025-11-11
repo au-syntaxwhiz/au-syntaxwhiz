@@ -1,11 +1,11 @@
-# 👋 Hi there,
+# Hi there,
 
 I'm a **Senior Software Engineer** with 8 years of experience building scalable and innovative solutions. I have a strong passion for developing **AI-driven platforms**, **distributed systems**, and optimizing backend systems for high performance and security. My expertise lies in creating efficient microservices and enhancing data processing speeds. My diverse experience allows me to adapt to various requirements and deliver high-quality software solutions.
 
 I love building efficient microservices and improving data processing speeds. I’ve successfully reduced UI development time by **45%** and improved processing speeds by **40%** in previous projects.
 
 ## My GitHub Stats
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=au-syntaxwhiz&layout=compact&theme=github_dark&card_width=1000)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=au-syntaxwhiz&theme=github_dark&card_width=1000)
 
 ## Technologies & Skills
 
